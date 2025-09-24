@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>0xDaveey</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on 0xDaveey</description>
+    <generator>Hugo</generator>
+    <language>es</language>
+    <lastBuildDate>Sun, 21 Sep 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sobre mí</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Sun, 21 Sep 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>&lt;p&gt;Hola — soy David León, 21 años 🇻🇪. Apasionado por la seguridad informática: jugador de CTF, investigador de seguridad y futuro SOC Analyst. Me encanta resolver retos, automatizar con Python y aprender algo nuevo cada día. 💡&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Edad: 21 años 🧑‍💻&lt;/li&gt;&#xA;&lt;li&gt;Nacionalidad: Venezolano 🇻🇪&lt;/li&gt;&#xA;&lt;li&gt;Rol: CTF player 🏆 · Investigador de seguridad 🔎 · Futuro SOC Analyst 🛡️&lt;/li&gt;&#xA;&lt;li&gt;Habilidades: Pentesting, análisis de vulnerabilidades, scripting en Python 🐍, redes y Linux 🐧&lt;/li&gt;&#xA;&lt;li&gt;Mentalidad: Curioso, perseverante y colaborativo. Siempre aprendiendo.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;¿Te interesa colaborar, proponer un reto o ver algún write-up? Estoy abierto a proyectos y a compartir conocimientos. Encuéntrame en las redes del sitio o deja un mensaje. ✉️&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Emoji Support</title>
+      <link>http://localhost:1313/posts/emoji-support/</link>
+      <pubDate>Fri, 07 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/emoji-support/</guid>
+      <description>&lt;p&gt;Emoji can be enabled in a Hugo project in a number of ways.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Contacto</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>&lt;p&gt;¡Hola! 👋 Soy David León — si quieres contactarme para colaborar, proponer un reto, pedir ayuda o simplemente saludar, aquí tienes las formas más rápidas de llegar a mí:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;✉️ Email: &lt;a href=&#34;mailto:boydeveloper00@gmail.com&#34; &gt;boydeveloper00@gmail.com&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💬 Telegram: &lt;a href=&#34;https://t.me/x00_Daveey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;@x00_Daveey&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;🧩 TryHackMe: &lt;a href=&#34;https://tryhackme.com/p/0xDaveey&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;tryhackme.com/p/0xDaveey&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;💻 GitHub: &lt;a href=&#34;https://github.com/justgr0w&#34;  class=&#34;external-link&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;github.com/justgr0w&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;¿Qué puedes esperar?&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Respuesta en 1–3 días hábiles (si es urgente, indica &amp;ldquo;URGENTE&amp;rdquo; en el asunto). ⏳&lt;/li&gt;&#xA;&lt;li&gt;Colaboraciones en CTFs, write-ups, proyectos de seguridad y automatización con Python son bienvenidas. 🤝&lt;/li&gt;&#xA;&lt;li&gt;Si prefieres, deja un mensaje claro con tu propuesta y enlaces relevantes (repo, reto, brief).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Privacidad&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projects</title>
+      <link>http://localhost:1313/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/projects/</guid>
+      <description>&lt;p&gt;Nothing to see here&amp;hellip; Move along!&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
