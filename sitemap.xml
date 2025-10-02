@@ -1,18 +1,60 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  
-  <sitemap>
-    <loc>http://localhost:1313/es/sitemap.xml</loc>
-    
-      <lastmod>2025-09-21T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-  <sitemap>
-    <loc>http://localhost:1313/en/sitemap.xml</loc>
-    
-      <lastmod>2025-09-21T00:00:00+00:00</lastmod>
-    
-  </sitemap>
-  
-</sitemapindex>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/0xdaveey/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/authors/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/bugged/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ctf/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/easy/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pentesting/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tryhackme/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/series/tryhackme/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/about/</loc>
+    <lastmod>2025-09-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categoria/temas/</loc>
+    <lastmod>2023-01-04T23:21:18+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categoria/sintaxis/</loc>
+    <lastmod>2023-01-04T23:21:06+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/shortcodes/</loc>
+    <lastmod>2023-01-04T11:51:36+01:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/contact/</loc>
+  </url><url>
+    <loc>http://localhost:1313/projects/</loc>
+  </url>
+</urlset>
